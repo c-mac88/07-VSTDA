@@ -1,0 +1,15 @@
+#topOfPage {
+	
+}
+
+#panelPrimary {
+	float: left;
+	width: 40%;
+	margin: 5%;
+}
+
+#list{
+	float:right;
+	width: 40%;
+	margin: 5%;
+}
