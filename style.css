@@ -12,4 +12,10 @@
 	float:right;
 	width: 40%;
 	margin: 5%;
+	list-style: none;
+	display: inline;
+}
+
+#buttons {
+	margin-bottom: 2%;
 }
